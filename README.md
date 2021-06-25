@@ -1,1 +1,1 @@
-# [Unity] toon_rendering
+# [Unity] Toon Rendering
