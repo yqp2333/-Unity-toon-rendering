@@ -1,7 +1,7 @@
 # [Unity] Toon Rendering
 
 ## 简介：  
-最近学习了一下UnityShader，一直对卡通渲染也很感兴趣，想练练手。  
+最近学习了UnityShader入门精要，一直对卡通渲染也很感兴趣，想练练手。  
 
 ## 实现功能：  
 1.2Pass几何描边  
