@@ -4,7 +4,7 @@
 最近学习了UnityShader入门精要，一直对卡通渲染也很感兴趣，想练练手。  
 
 ## 实现功能：  
-1.2Pass几何描边(OutLine)　　
+1.2Pass几何描边(OutLine)  　　
 2.双色阶着色(Two Tone Shading)  
 3.Lightmap  
 4.边缘光(Rimlight)   
